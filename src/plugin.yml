@@ -4,3 +4,4 @@ main: rotang.ExtendsWorldEdit.ExtendsWorldEdit
 
 commands:
   fakeblock:
+    usage: //copy  ->  /fakeblock
