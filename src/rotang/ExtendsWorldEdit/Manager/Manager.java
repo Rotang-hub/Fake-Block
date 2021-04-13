@@ -99,7 +99,7 @@ public class Manager
 					
 					ArmorStand as = (ArmorStand) player.getWorld().spawnEntity(targetPos, EntityType.ARMOR_STAND);
 					
-					//as.setVisible(false);
+					as.setVisible(false);
 					as.setGravity(false);
 					as.setSilent(true);
 					
