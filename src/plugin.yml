@@ -1,0 +1,6 @@
+name: ExtendsWorldEdit
+version: 1.0
+main: rotang.ExtendsWorldEdit.ExtendsWorldEdit
+
+commands:
+  fakeblock:
